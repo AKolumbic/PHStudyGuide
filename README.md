@@ -144,7 +144,7 @@ Core DevOps principles to understand:
 
 ## 5. API Development & Integration
 
-### RESTful API Design
+### [RESTful API Design](05-API-Development-Integration/RESTful-api-design.md)
 
 RESTful APIs are central to distributed systems:
 
@@ -155,7 +155,7 @@ RESTful APIs are central to distributed systems:
 - API documentation with OpenAPI/Swagger
 - Error handling and status codes
 
-### OAuth Authentication
+### [OAuth Authentication](05-API-Development-Integration/OAuth-authentication.md)
 
 OAuth is a standard for secure API authorization:
 
@@ -166,7 +166,7 @@ OAuth is a standard for secure API authorization:
 - Token management and refresh strategies
 - Common OAuth security vulnerabilities and mitigations
 
-### Event-Driven Architecture
+### [Event-Driven Architecture](05-API-Development-Integration/event-driven-architecture.md)
 
 Real-time systems often use event-driven patterns:
 
