@@ -2,7 +2,7 @@
 
 ## 1. Cloud-Native Application Development
 
-### Node.js Fundamentals
+### [Node.js Fundamentals](01-Cloud-Native-Application-Development/nodejs-fundamentals.md)
 
 Node.js is a JavaScript runtime built on Chrome's V8 engine that allows you to run JavaScript on the server side. For this role, you should understand:
 
@@ -13,7 +13,7 @@ Node.js is a JavaScript runtime built on Chrome's V8 engine that allows you to r
 - Memory management and performance optimization in Node.js applications
 - Common design patterns for Node.js applications (Factory, Singleton, Observer, etc.)
 
-### TypeScript Essentials
+### [TypeScript Essentials](01-Cloud-Native-Application-Development/typescript-essentials.md)
 
 TypeScript extends JavaScript by adding static type definitions. Key concepts include:
 
@@ -24,7 +24,7 @@ TypeScript extends JavaScript by adding static type definitions. Key concepts in
 - Integration with Node.js projects and build tools
 - Benefits of TypeScript in large-scale applications (better tooling, fewer runtime errors)
 
-### React Development
+### [React Development](01-Cloud-Native-Application-Development/react-development.md)
 
 React is a JavaScript library for building user interfaces. Important areas to review:
 
@@ -37,7 +37,7 @@ React is a JavaScript library for building user interfaces. Important areas to r
 
 ## 2. Cloud Infrastructure & Architecture
 
-### Azure (Primary Focus)
+### [Azure (Primary Focus)](02-Cloud-Infrastructure-Architecture/azure-services.md)
 
 Since Azure is preferred, focus on these Azure services:
 
@@ -50,7 +50,7 @@ Since Azure is preferred, focus on these Azure services:
 - Azure Monitor for application insights and monitoring
 - Azure DevOps for CI/CD and automation
 
-### AWS (Secondary Focus)
+### [AWS (Secondary Focus)](02-Cloud-Infrastructure-Architecture/aws.md)
 
 Have a working knowledge of AWS equivalents:
 
@@ -61,7 +61,7 @@ Have a working knowledge of AWS equivalents:
 - AWS CloudWatch for monitoring
 - AWS CodePipeline for CI/CD
 
-### Cloud-Native Architecture Concepts
+### [Cloud-Native Architecture Concepts](02-Cloud-Infrastructure-Architecture/cloud-native-architecture-concepts.md)
 
 Understanding these architectural patterns is crucial:
 
@@ -74,7 +74,7 @@ Understanding these architectural patterns is crucial:
 
 ## 3. Observability & Monitoring
 
-### Observability Fundamentals
+### [Observability Fundamentals](03-Observability-Monitoring/observability-fundamentals.md)
 
 Observability is about understanding system behavior through external outputs:
 
@@ -85,7 +85,7 @@ Observability is about understanding system behavior through external outputs:
 - Service Level Indicators (SLIs), Service Level Objectives (SLOs), and Service Level Agreements (SLAs)
 - Correlation of telemetry data across distributed systems
 
-### OpenTelemetry
+### [OpenTelemetry](03-Observability-Monitoring/opentelemetry.md)
 
 OpenTelemetry is an open-source observability framework:
 
@@ -96,7 +96,7 @@ OpenTelemetry is an open-source observability framework:
 - OpenTelemetry Collector deployment and configuration
 - Custom metrics and spans in OpenTelemetry
 
-### Splunk Observability
+### [Splunk Observability](03-Observability-Monitoring/splunk-observability.md)
 
 Splunk's observability platform includes:
 
