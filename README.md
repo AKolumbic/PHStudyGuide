@@ -279,7 +279,7 @@ Real-time analytics platforms:
 
 ## 10. Interview Preparation Strategy
 
-### Technical Questions
+### [Technical Questions](10-Interview-Preparation-Strategy/technical-questions.md)
 
 Prepare for these types of questions:
 
@@ -289,7 +289,7 @@ Prepare for these types of questions:
 - Cloud architecture optimization
 - API design and authentication
 
-### Behavioral Questions
+### [Behavioral Questions](10-Interview-Preparation-Strategy/behavioral-questions.md)
 
 Be ready to discuss:
 
@@ -299,7 +299,7 @@ Be ready to discuss:
 - Balancing technical debt with new features
 - Leadership in technical decision-making
 
-### Questions to Ask
+### [Questions to Ask](10-Interview-Preparation-Strategy/questions-to-ask.md)
 
 Prepare thoughtful questions about:
 
