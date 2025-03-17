@@ -109,7 +109,7 @@ Splunk's observability platform includes:
 
 ## 4. Infrastructure Automation & DevOps
 
-### Infrastructure as Code (IaC)
+### [Infrastructure as Code (IaC)](04-Infrastructure-Automation-DevOps/infrastructure-as-code.md)
 
 IaC allows you to manage infrastructure through code:
 
@@ -120,7 +120,7 @@ IaC allows you to manage infrastructure through code:
 - Testing infrastructure code
 - Security best practices in IaC
 
-### CI/CD Pipelines
+### [CI/CD Pipelines](04-Infrastructure-Automation-DevOps/cicd-pipelines.md)
 
 Continuous Integration and Continuous Deployment:
 
@@ -131,7 +131,7 @@ Continuous Integration and Continuous Deployment:
 - Automated testing in CI/CD pipelines
 - Secrets handling in CI/CD
 
-### DevOps Practices
+### [DevOps Practices](04-Infrastructure-Automation-DevOps/devops-practices.md)
 
 Core DevOps principles to understand:
 

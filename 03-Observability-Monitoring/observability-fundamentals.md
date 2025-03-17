@@ -1,4 +1,4 @@
-# Observability Fundamentals Study Guide
+# Observability Fundamentals
 
 ## Introduction to Observability
 
