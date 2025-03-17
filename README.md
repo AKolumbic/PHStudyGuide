@@ -1,4 +1,4 @@
-# Pizza Hut Observability Team Interview Study Guide
+# PH Observability Team Interview Study Guide
 
 ## 1. Cloud-Native Application Development
 
@@ -179,7 +179,7 @@ Real-time systems often use event-driven patterns:
 
 ## 6. AI Integration & Automation
 
-### AI/ML Fundamentals
+### [AI/ML Fundamentals](06-AI-Integration-Automation/intro-to-ai-ml-fundamentals.md)
 
 While not required, understanding basics will help:
 
@@ -189,7 +189,7 @@ While not required, understanding basics will help:
 - Fine-tuning vs. zero-shot learning
 - AI ethics and responsible AI implementation
 
-### OpenAI Integration
+### [OpenAI Integration](06-AI-Integration-Automation/openai-integration.md)
 
 Working with OpenAI APIs:
 
@@ -200,7 +200,7 @@ Working with OpenAI APIs:
 - Streaming responses for real-time applications
 - Error handling and fallback strategies
 
-### Vector Databases
+### [Vector Databases](06-AI-Integration-Automation/vector-databases.md)
 
 Vector databases store embeddings for AI applications:
 
@@ -212,7 +212,7 @@ Vector databases store embeddings for AI applications:
 
 ## 7. Incident Management & ServiceNow
 
-### Incident Response
+### [Incident Response](07-Incident-Management-ServiceNow/incident-response.md)
 
 Effective incident handling processes:
 
@@ -222,7 +222,7 @@ Effective incident handling processes:
 - Post-incident reviews and blameless postmortems
 - Runbooks and automated remediation
 
-### ServiceNow Integration
+### [ServiceNow Integration](07-Incident-Management-ServiceNow/serviceNow-integration.md)
 
 ServiceNow is an ITSM platform:
 
@@ -234,7 +234,7 @@ ServiceNow is an ITSM platform:
 
 ## 8. System Reliability & Performance
 
-### Reliability Engineering
+### [Reliability Engineering](08-System-Reliability-Performance/sre.md)
 
 Site Reliability Engineering (SRE) practices:
 
@@ -244,7 +244,7 @@ Site Reliability Engineering (SRE) practices:
 - Failure modes and effects analysis
 - Resilience testing and disaster recovery
 
-### Performance Optimization
+### [Performance Optimization](08-System-Reliability-Performance/performance-optimization.md)
 
 Ensuring system performance:
 
@@ -257,7 +257,7 @@ Ensuring system performance:
 
 ## 9. Real-Time Analytics & Data Streaming
 
-### Data Streaming Fundamentals
+### [Data Streaming Fundamentals](09-Real-Time-Analytics-Data-Streaming/data-streaming-fundamentals.md)
 
 Real-time data processing concepts:
 
@@ -267,7 +267,7 @@ Real-time data processing concepts:
 - Exactly-once processing guarantees
 - Backpressure handling in streaming systems
 
-### Analytics Systems
+### [Analytics Systems](09-Real-Time-Analytics-Data-Streaming/analytics-systems.md)
 
 Real-time analytics platforms:
 
